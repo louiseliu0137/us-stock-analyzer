@@ -1,0 +1,45 @@
+# Environment
+.env
+.env.local
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+stock_analyzer.log
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Charts and images
+*.png
+*.jpg
+*.jpeg
